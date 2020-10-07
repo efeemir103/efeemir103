@@ -1,4 +1,6 @@
-### Hi there 👋
+### Efe Emir Pekmez
+- Electrical & Electronics Engineer
+- Also known as masterofnulls 😄
 
 <!--
 **efeemir103/efeemir103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
