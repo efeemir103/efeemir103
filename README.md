@@ -1,6 +1,6 @@
 ### Efe Emir Pekmez
 - Electrical & Electronics Engineer
-- Currently an undergaduate (freshman) at Marmara University studying Electrical Engineering.
+- Currently an undergaduate (junior) at Marmara University studying Electrical Engineering.
 - Knows C, C++, C#, Java, Python3, HTML, CSS, JavaScript.
 - Also known as masterofnulls 😄
 
